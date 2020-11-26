@@ -1,0 +1,9 @@
+CREATE DATABASE Employees
+
+
+CREATE TABLE [dbo].[Employees] (
+    [Id]       INT         IDENTITY (1, 1) NOT NULL,
+    [Name]     NCHAR (100) NOT NULL,
+    [LastName] NCHAR (100) NOT NULL,
+    [Position] NCHAR (50)  NOT NULL
+)

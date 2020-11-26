@@ -1,0 +1,11 @@
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\bin\Debug\netcoreapp3.1\DDD.Infra.deps.json
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\bin\Debug\netcoreapp3.1\DDD.Infra.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\bin\Debug\netcoreapp3.1\DDD.Infra.pdb
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\bin\Debug\netcoreapp3.1\DDD.Domain.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\bin\Debug\netcoreapp3.1\DDD.Domain.pdb
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\obj\Debug\netcoreapp3.1\DDD.Infra.csprojAssemblyReference.cache
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\obj\Debug\netcoreapp3.1\DDD.Infra.AssemblyInfoInputs.cache
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\obj\Debug\netcoreapp3.1\DDD.Infra.AssemblyInfo.cs
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\obj\Debug\netcoreapp3.1\DDD.Infra.csproj.CopyComplete
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\obj\Debug\netcoreapp3.1\DDD.Infra.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Infra\obj\Debug\netcoreapp3.1\DDD.Infra.pdb

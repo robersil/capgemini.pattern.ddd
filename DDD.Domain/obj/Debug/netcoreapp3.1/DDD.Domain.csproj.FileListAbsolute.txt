@@ -1,0 +1,8 @@
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Domain\bin\Debug\netcoreapp3.1\DDD.Domain.deps.json
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Domain\bin\Debug\netcoreapp3.1\DDD.Domain.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Domain\bin\Debug\netcoreapp3.1\DDD.Domain.pdb
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.csprojAssemblyReference.cache
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.AssemblyInfoInputs.cache
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.AssemblyInfo.cs
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.pdb

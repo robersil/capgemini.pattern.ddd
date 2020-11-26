@@ -1,0 +1,15 @@
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\bin\Debug\netcoreapp3.1\DDD.CrossCutting.deps.json
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\bin\Debug\netcoreapp3.1\DDD.CrossCutting.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\obj\Debug\netcoreapp3.1\DDD.CrossCutting.csprojAssemblyReference.cache
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\obj\Debug\netcoreapp3.1\DDD.CrossCutting.AssemblyInfoInputs.cache
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\obj\Debug\netcoreapp3.1\DDD.CrossCutting.AssemblyInfo.cs
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\bin\Debug\netcoreapp3.1\DDD.CrossCutting.pdb
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\bin\Debug\netcoreapp3.1\DDD.Application.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\bin\Debug\netcoreapp3.1\DDD.Domain.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\bin\Debug\netcoreapp3.1\DDD.Infra.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\bin\Debug\netcoreapp3.1\DDD.Application.pdb
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\bin\Debug\netcoreapp3.1\DDD.Domain.pdb
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\bin\Debug\netcoreapp3.1\DDD.Infra.pdb
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\obj\Debug\netcoreapp3.1\DDD.CrossCutting.csproj.CopyComplete
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\obj\Debug\netcoreapp3.1\DDD.CrossCutting.dll
+D:\Cursos\Impacta\Arquitetura\DDD\DDD.CrossCutting\obj\Debug\netcoreapp3.1\DDD.CrossCutting.pdb
